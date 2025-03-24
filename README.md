@@ -2,7 +2,7 @@
 
 A modern tech blog built with React, focused on delivering insightful IT news and industry analysis.
 
-📖 [Visit the Blog]("https://y1hy11.github.io/blog/")
+📖 [Visit the Blog](https://y1hy11.github.io/blog/)
 
 ## Overview
 
