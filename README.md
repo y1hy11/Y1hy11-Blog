@@ -2,7 +2,8 @@
 
 A modern tech blog built with React, focused on delivering insightful IT news and industry analysis.
 
-📖 [Visit the Blog](https://y1hy11.github.io/blog/)
+
+[![Live Demo](https://img.shields.io/badge/Visit-TheBlog-000?style=for-the-badge&color=333333&labelColor=ffffff)](https://y1hy11.github.io/blog/)
 
 ## Overview
 
@@ -44,12 +45,20 @@ Built with modern web technologies:
 - React Router DOM 7
 - Framer Motion
 
-## License
+## 📞 Contact
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+For inquiries about this portfolio template or professional opportunities, please reach out through:
+
+[![X](https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/y1hy1_1)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yahya-elalaoui) 
+
+## ⚖️ License
+
+This documentation is available under the MIT License - see the [LICENSE](LICENSE) file for details. The source code remains private and is not included in this repository.
+
+---
+*Note: This is a documentation-only repository. The actual implementation and source code are maintained privately.*
 
 ## Author
 
-- [@y1hy11](https://github.com/y1hy11)
-- [Twitter](https://x.com/y1hy1_1)
-- [LinkedIn](https://www.linkedin.com/in/yahya-elalaoui)
+[![GitHub](https://img.shields.io/badge/GitHub-y1hy11-black?style=flat&logo=github&logoColor=white)](https://github.com/y1hy11)
